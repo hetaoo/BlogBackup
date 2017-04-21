@@ -35,7 +35,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -74,7 +74,7 @@ tag: 1
 plugins: hexo-generator-feed
 
 ## Themes: https://hexo.io/themes/
-theme: yilia
+theme: hexo-theme-yilia.git
 
 # Disqus #社会化评论disqus，我使用多说，在主题中配置
 disqus_shortname:
