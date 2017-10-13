@@ -1,7 +1,11 @@
 ---
 title: springboot集成pagehelp分页插件
 date: 2017-10-13 12:14:01
-tags: springboot,pagehelp,plugin，分页
+tags: 
+- springboot
+- pagehelp
+- plugin
+- 分页
 categories: springboot
 ---
 
